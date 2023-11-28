@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This will create a copy of the repository in your specified directory. After cloning, you can navigate into the repository's directory and start working with the code.
 
-'git clone https://github.com/ignaciogomezpr/Obra-QR-Code-Generator.git'
+`git clone https://github.com/ignaciogomezpr/Obra-QR-Code-Generator.git`
 
 ## Next Steps
 
