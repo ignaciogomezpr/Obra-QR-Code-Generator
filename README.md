@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Cloning the Repository
 
 This will create a copy of the repository in your specified directory. After cloning, you can navigate into the repository's directory and start working with the code.
 
