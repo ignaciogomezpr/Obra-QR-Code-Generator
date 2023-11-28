@@ -2,6 +2,23 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+This will create a copy of the repository in your specified directory. After cloning, you can navigate into the repository's directory and start working with the code.
+
+git clone https://github.com/ignaciogomezpr/Obra-QR-Code-Generator.git
+
+markdown
+Copy code
+
+## Next Steps
+
+- Navigate to the project directory: `cd Obra-QR-Code-Generator`
+- Install dependencies: `npm install` (assuming you have Node.js and npm installed)
+- Start the development server: `npm start`
+
+Now, you should be able to see the QR Code Generator application running on your local machine.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
